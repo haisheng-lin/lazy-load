@@ -1,3 +1,4 @@
-#demo-img {
-  margin-top: 150vh;
+.demo-img {
+  display: block;
+  width: 100%;
 }

@@ -1,0 +1,7 @@
+{
+  "name": "lazy-load",
+  "version": "0.0.1",
+  "devDependencies": {
+    "webpack": "^1.12.11"
+  }
+}
